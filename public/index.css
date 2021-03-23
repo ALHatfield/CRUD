@@ -1,0 +1,10 @@
+body {
+  background-color: wheat;
+  margin: 10px;
+}
+#results {
+  background-color: white;
+  outline: 1px solid lime;
+  margin: 10px 0;
+  padding: 10px 0;
+}
